@@ -3,11 +3,12 @@
   <groupId>com.ptk671</groupId>
   <artifactId>pffloader-1.18.2</artifactId>
   <versioning>
-    <latest>1.0-TestBuild</latest>
-    <release>1.0-TestBuild</release>
+    <latest>1.0-TestBuild-2</latest>
+    <release>1.0-TestBuild-2</release>
     <versions>
       <version>1.0-TestBuild</version>
+<version>1.0-TestBuild-2</version>
     </versions>
-    <lastUpdated>20240706072442</lastUpdated>
+    <lastUpdated>20240706084947</lastUpdated>
   </versioning>
 </metadata>
