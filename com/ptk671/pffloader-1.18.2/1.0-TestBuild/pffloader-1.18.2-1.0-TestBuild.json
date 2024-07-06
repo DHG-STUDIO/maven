@@ -1,0 +1,22 @@
+{
+    "group_id": "com.ptk671",
+    "artifact_id": "pffloader-1.18.2",
+    "version": "1.0-TestBuild",
+    "files": [
+        "pffloader-1.18.2-1.0-TestBuild-sources.jar",
+        "pffloader-1.18.2-1.0-TestBuild-sources.jar.md5",
+        "pffloader-1.18.2-1.0-TestBuild-sources.jar.sha1",
+        "pffloader-1.18.2-1.0-TestBuild-sources.jar.sha256",
+        "pffloader-1.18.2-1.0-TestBuild-sources.jar.sha512",
+        "pffloader-1.18.2-1.0-TestBuild.jar",
+        "pffloader-1.18.2-1.0-TestBuild.jar.md5",
+        "pffloader-1.18.2-1.0-TestBuild.jar.sha1",
+        "pffloader-1.18.2-1.0-TestBuild.jar.sha256",
+        "pffloader-1.18.2-1.0-TestBuild.jar.sha512",
+        "pffloader-1.18.2-1.0-TestBuild.pom",
+        "pffloader-1.18.2-1.0-TestBuild.pom.md5",
+        "pffloader-1.18.2-1.0-TestBuild.pom.sha1",
+        "pffloader-1.18.2-1.0-TestBuild.pom.sha256",
+        "pffloader-1.18.2-1.0-TestBuild.pom.sha512"
+    ]
+}
