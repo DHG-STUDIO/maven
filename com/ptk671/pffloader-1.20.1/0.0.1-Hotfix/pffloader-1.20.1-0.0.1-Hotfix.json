@@ -1,0 +1,22 @@
+{
+    "group_id": "com.ptk671",
+    "artifact_id": "pffloader-1.20.1",
+    "version": "0.0.1-Hotfix",
+    "files": [
+        "pffloader-1.20.1-0.0.1-Hotfix-sources.jar",
+        "pffloader-1.20.1-0.0.1-Hotfix-sources.jar.md5",
+        "pffloader-1.20.1-0.0.1-Hotfix-sources.jar.sha1",
+        "pffloader-1.20.1-0.0.1-Hotfix-sources.jar.sha256",
+        "pffloader-1.20.1-0.0.1-Hotfix-sources.jar.sha512",
+        "pffloader-1.20.1-0.0.1-Hotfix.jar",
+        "pffloader-1.20.1-0.0.1-Hotfix.jar.md5",
+        "pffloader-1.20.1-0.0.1-Hotfix.jar.sha1",
+        "pffloader-1.20.1-0.0.1-Hotfix.jar.sha256",
+        "pffloader-1.20.1-0.0.1-Hotfix.jar.sha512",
+        "pffloader-1.20.1-0.0.1-Hotfix.pom",
+        "pffloader-1.20.1-0.0.1-Hotfix.pom.md5",
+        "pffloader-1.20.1-0.0.1-Hotfix.pom.sha1",
+        "pffloader-1.20.1-0.0.1-Hotfix.pom.sha256",
+        "pffloader-1.20.1-0.0.1-Hotfix.pom.sha512"
+    ]
+}
