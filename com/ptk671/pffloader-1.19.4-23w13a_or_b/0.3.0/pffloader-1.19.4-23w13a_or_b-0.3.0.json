@@ -1,0 +1,22 @@
+{
+    "group_id": "com.ptk671",
+    "artifact_id": "pffloader-1.19.4-23w13a_or_b",
+    "version": "0.3.0",
+    "files": [
+        "pffloader-1.19.4-23w13a_or_b-0.3.0-sources.jar",
+        "pffloader-1.19.4-23w13a_or_b-0.3.0-sources.jar.md5",
+        "pffloader-1.19.4-23w13a_or_b-0.3.0-sources.jar.sha1",
+        "pffloader-1.19.4-23w13a_or_b-0.3.0-sources.jar.sha256",
+        "pffloader-1.19.4-23w13a_or_b-0.3.0-sources.jar.sha512",
+        "pffloader-1.19.4-23w13a_or_b-0.3.0.jar",
+        "pffloader-1.19.4-23w13a_or_b-0.3.0.jar.md5",
+        "pffloader-1.19.4-23w13a_or_b-0.3.0.jar.sha1",
+        "pffloader-1.19.4-23w13a_or_b-0.3.0.jar.sha256",
+        "pffloader-1.19.4-23w13a_or_b-0.3.0.jar.sha512",
+        "pffloader-1.19.4-23w13a_or_b-0.3.0.pom",
+        "pffloader-1.19.4-23w13a_or_b-0.3.0.pom.md5",
+        "pffloader-1.19.4-23w13a_or_b-0.3.0.pom.sha1",
+        "pffloader-1.19.4-23w13a_or_b-0.3.0.pom.sha256",
+        "pffloader-1.19.4-23w13a_or_b-0.3.0.pom.sha512"
+    ]
+}
