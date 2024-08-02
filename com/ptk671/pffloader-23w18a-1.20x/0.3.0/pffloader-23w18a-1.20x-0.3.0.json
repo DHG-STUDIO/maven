@@ -1,0 +1,22 @@
+{
+    "group_id": "com.ptk671",
+    "artifact_id": "pffloader-23w18a-1.20x",
+    "version": "0.3.0",
+    "files": [
+        "pffloader-23w18a-1.20x-0.3.0-sources.jar",
+        "pffloader-23w18a-1.20x-0.3.0-sources.jar.md5",
+        "pffloader-23w18a-1.20x-0.3.0-sources.jar.sha1",
+        "pffloader-23w18a-1.20x-0.3.0-sources.jar.sha256",
+        "pffloader-23w18a-1.20x-0.3.0-sources.jar.sha512",
+        "pffloader-23w18a-1.20x-0.3.0.jar",
+        "pffloader-23w18a-1.20x-0.3.0.jar.md5",
+        "pffloader-23w18a-1.20x-0.3.0.jar.sha1",
+        "pffloader-23w18a-1.20x-0.3.0.jar.sha256",
+        "pffloader-23w18a-1.20x-0.3.0.jar.sha512",
+        "pffloader-23w18a-1.20x-0.3.0.pom",
+        "pffloader-23w18a-1.20x-0.3.0.pom.md5",
+        "pffloader-23w18a-1.20x-0.3.0.pom.sha1",
+        "pffloader-23w18a-1.20x-0.3.0.pom.sha256",
+        "pffloader-23w18a-1.20x-0.3.0.pom.sha512"
+    ]
+}
